@@ -33,6 +33,17 @@
         "price": 70
       
       },
+    {
+        "id": "zeds11321sd21",
+        "title": "The blue book",
+        "auteur":
+        "George" ,
+        "image":
+        "http://www.culturel.tn/medias/couver/9780007448036.gif",
+        
+        "price": 15
+      
+      },
       {
         "id": "zeds11321sd21",
         "title": "The blue book",
@@ -43,7 +54,7 @@
         
         "price": 15
       
-      },
+      }
       ]
     }
             
