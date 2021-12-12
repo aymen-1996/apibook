@@ -1,20 +1,19 @@
-
-
-        {
-          "books" :[
-            {
-              "id": "123456",
-              "title": "parasite",
-              "Auteur":"aymen",
-              "image":
-                "https://kbimages1-a.akamaihd.net/a90c823f-0e23-40ce-a117-6a207823a10e/353/569/90/False/diary-of-a-wimpy-kid-the-third-wheel-book-7.jpg",
-              
-              "price": 10
-            }
-          ]
-          }
-        
-      
+{
+  "books" :[
+       {
+         "id": "8f4aa769mllm1255",
+         "title": "Parasite",
+         "auteur":
+         "chouaibi" ,
+         "image":
+         "https://kbimages1-a.akamaihd.net/a90c823f-0e23-40ce-a117-6a207823a10e/353/569/90/False/diary-of-a-wimpy-kid-the-third-wheel-book-7.jpg",
+         "last_update": "11/2021",
+         
+         "price": 1500
+       
+       }
+      ]
+    }
             
           
         
